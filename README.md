@@ -9,4 +9,4 @@ The code was tested on a Teensy 4.1 with Arduino 1.8.13 and Teensyduino 1.54.
 
 To use this with the Arduino IDE just copy the files into the same folder as where your INO file resides. However, you may need to rename input_tdm or overwrite the existing file that resides in your Arduino installation folder under hardware/teensy/avr/libraries/Audio/ (at your own risk if you have a different Teensyduino version).
 
-[Thanks](https://www.daslai.de)
+[Thanks](https://daslai.de)
